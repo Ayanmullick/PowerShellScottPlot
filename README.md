@@ -1,3 +1,5 @@
+Archive
+
 # PowerShell ScottPlot
 
 Uses Polyglot Interactive Notebooks to demonstrate the capabilities of ScottPlot via PowerShell.
